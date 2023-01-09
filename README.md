@@ -131,6 +131,7 @@ Note Agents Apps not
 <h1 align = "center"> Section 4 </h1>
 
 <br>
+
 # Agent Structure
 
 <br>
