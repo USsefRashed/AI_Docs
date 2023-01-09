@@ -130,8 +130,16 @@ Note Agents Apps not
     
 <h1 align = "center"> Section 4 </h1>
 
-# Agent Structure
+<br>
+
+<h3>Agent Structure</h3>
 
 <br>
 
 Agent => architecture + program
+
+- Architecture => Computing device with physical sensors and actuators.
+- Program => Implementation for agent functions that maps the percepts to actions.
+
+<br>
+
